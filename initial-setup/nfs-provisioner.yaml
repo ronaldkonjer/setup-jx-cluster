@@ -1,0 +1,5 @@
+rbac.create: true
+persistence:
+  enabled: true
+  storageClass: "standard"
+  size: 200Gi
